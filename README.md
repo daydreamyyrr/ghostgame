@@ -1,0 +1,2 @@
+# ghostgame
+a game story
