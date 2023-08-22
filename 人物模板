@@ -3,9 +3,17 @@
 
 hit points(生命值)
 mana（法力值）
-strength（力量）
+atk（攻击力）
+defensive power(防御力)
 agility（敏捷）、accuracy（准确度）
 experience points（经验点数）level（等级）、
-money（金钱数）、regeneration amount（重生数量）
-strike damage（撞击伤害，玩家角色的攻击给予敌人的伤害，受力量属性的影响）、
-damage absorption（伤害吸收）（护盾）
+money（铜钱数）、regeneration amount（重生数量）
+strike damage（撞击伤害，玩家角色的攻击给予敌人的伤害，受攻击力的影响）、
+damage absorption（伤害吸收，受到防御属性的影响）
+
+人物最高30级
+每级增加生命10点，攻击5点，防御2点，法力5点
+10级以内每级需要经验值500
+10级至20级需要经验值1000
+20级至25级需要经验值1500
+25级至30级需要经验值2000
